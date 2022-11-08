@@ -1,0 +1,75 @@
+.mt-20{margin-top:20px;}
+
+.footizq, .footmid, .footder{text-align:center;}
+@media (min-width: 992px){
+	.footizq{text-align:left;}
+	.footmid{text-align:center;}
+}
+iframe#gmap{height: 450px}
+.left{text-align: left;}
+
+.mosaic_container .caption_2{text-shadow: 2px 2px 2px black;}
+
+@media (max-width: 767px){
+	.parallax-window#booking {
+		min-height: 270px;
+	}
+}
+#logo img {height:auto;position:absolute;left: -20%;}
+
+@media (max-width: 1200px){#logo img {left: -30%;}}
+@media (max-width: 950px){#logo img {left: -50%;}}
+@media (max-width: 750px){#logo img {left: -55%;}}
+@media (max-width: 600px){#logo img {left: -70%;}}
+@media (max-width: 541px){#logo img {left: -394px;}}
+
+/* whatsapp */
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	left:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+	z-index:1000;
+}
+a.float:hover,a.float:focus{color: white !important}
+
+.my-float{
+	margin-top:16px;
+}
+
+/* PRE VIAJE */
+.inner-pic{
+	top: 100px;
+	right: 0;
+	position: absolute;
+	background-color: #d41930;
+	padding: 25px;
+	padding-right: 100px;
+}
+@media (max-width: 1300px){
+	.inner-pic{padding-right: 0;}
+	.inner-pic img{width: 70%;}
+}
+@media (max-width: 900px){
+	.inner-pic{right: -100px;padding: 20px;}
+	.inner-pic img{width: 50%;}
+}
+@media (max-width: 600px){
+	.inner-pic{right: -180px;padding: 15px;}
+	.inner-pic img{width: 35%;}
+}
+
+h1.main_title, h2.main_title {
+    color: #d41930;
+}
+a.btn_1_outline, .btn_1_outline {
+    color: #d41930;
+    border: 2px solid #d41930;
+}

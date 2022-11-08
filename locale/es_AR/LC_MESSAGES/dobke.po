@@ -1,0 +1,461 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-09-09 11:21-0300\n"
+"PO-Revision-Date: 2022-10-08 15:50-0300\n"
+"Last-Translator: Sergio Dobke <sergio@dobke.com.ar>\n"
+"Language-Team: \n"
+"Language: es_AR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/check_avail.php:29 assets/check_avail.php:32
+#: assets/check_avail.php:35 assets/check_avail.php:38 contact/message.php:9
+#: contact/message.php:18 contact/message.php:24
+msgid "Enter"
+msgstr "Ingrese"
+
+#: assets/check_avail.php:29
+msgid "check in date"
+msgstr "Fecha de ingreso"
+
+#: assets/check_avail.php:32
+msgid "check out date"
+msgstr "Fecha de salida"
+
+#: assets/check_avail.php:35
+msgid "adults number"
+msgstr "cantidad de adultos"
+
+#: assets/check_avail.php:38 contact/message.php:32
+msgid "your"
+msgstr "su"
+
+#: assets/check_avail.php:38
+msgid "name"
+msgstr "nombre"
+
+#: assets/check_avail.php:38 home/rooms.php:11 room_detail.php:109
+msgid "and"
+msgstr "y"
+
+#: assets/check_avail.php:38
+msgid "last name"
+msgstr "apellido"
+
+#: assets/check_avail.php:41 assets/check_avail.php:44
+msgid "Please"
+msgstr "Por favor"
+
+#: assets/check_avail.php:41
+msgid "enter"
+msgstr "Ingrese"
+
+#: assets/check_avail.php:41
+msgid "a valid email address"
+msgstr "una dirección de email válida"
+
+#: assets/check_avail.php:44
+msgid "You"
+msgstr "Su"
+
+#: assets/check_avail.php:44
+msgid "have entered an invalid e-mail address"
+msgstr "ingresó una dirección de email inválida"
+
+#: assets/check_avail.php:44
+msgid "try again"
+msgstr "intente nuevamente"
+
+#: assets/check_avail.php:83
+msgid "Sent"
+msgstr "Enviado"
+
+#: assets/check_avail.php:84 assets/contact.php:104
+msgid "Thank you"
+msgstr "Gracias"
+
+#: assets/check_avail.php:84
+msgid "We will contact you shortly"
+msgstr "Le contactaremos a la brevedad."
+
+#: assets/contact.php:20
+msgid "Invalid Captcha"
+msgstr "Captcha inválido"
+
+#: assets/contact.php:32
+msgid "You must enter your Name"
+msgstr "Debe ingresar su nombre"
+
+#: assets/contact.php:40
+msgid "Please enter a valid email address"
+msgstr "Debe ingresar una dirección de email válida"
+
+#: assets/contact.php:43
+msgid "You have enter an invalid e-mail address, try again"
+msgstr "Usted ingresó una dirección de e-mail inválida. Intente nuevamente"
+
+#: assets/contact.php:46
+msgid "Please enter a valid phone number"
+msgstr "Por favor ingrese un número de teléfono válido"
+
+#: assets/contact.php:49
+msgid "Phone number can only contain numbers"
+msgstr "El número telefónico debe contener solamente números"
+
+#: assets/contact.php:52
+msgid "Please enter your message"
+msgstr "Por favor ingrese el mensaje"
+
+#: assets/contact.php:91
+msgid "Thank You"
+msgstr "Gracias"
+
+#: assets/contact.php:96
+msgid "Thank you for contact Red House Hostel. We will reply shortly!"
+msgstr ""
+"Gracias por contactar a Red House Hostel. Le responderemos a la brevedad!"
+
+#: assets/contact.php:103
+msgid "Email Sent"
+msgstr "Email enviado"
+
+#: assets/contact.php:104
+msgid "Your message has been submitted. We will contact you shortly."
+msgstr "Su mensaje fue enviado. Le contactaremos a la brevedad."
+
+#: contact/box_contact.php:5
+msgid "Address"
+msgstr "Dirección"
+
+#: contact/box_contact.php:12 contact/box_contact.php:19
+msgid "Get directions"
+msgstr "Obtener indicaciones"
+
+#: contact/box_contact.php:15
+msgid "Enter your starting point"
+msgstr "Introduzca su punto de partida"
+
+#: contact/message.php:8 contact/message.php:9 room_detail.php:108
+#: room_detail.php:109
+msgid "Name"
+msgstr "Nombre"
+
+#: contact/message.php:23
+msgid "Phone"
+msgstr "Teléfono"
+
+#: contact/message.php:24
+msgid "Phone number"
+msgstr "Número de teléfono"
+
+#: contact/message.php:31
+msgid "Message"
+msgstr "Mensaje"
+
+#: contact/message.php:32
+msgid "Write"
+msgstr "Escriba"
+
+#: contact/message.php:32
+msgid "message"
+msgstr "mensaje"
+
+#: contact/message.php:39
+msgid "Submit"
+msgstr "Enviar"
+
+#: contacto.php:35
+msgid "Contact Us"
+msgstr "Contactanos"
+
+#: contacto.php:41 home/welcome.php:2
+msgid "Welcome to"
+msgstr "Bienvenidos a"
+
+#: home/covid.php:4
+msgid "Protocol"
+msgstr "Protocolo"
+
+#: home/rooms.php:5 home/rooms.php:40
+msgid "dorms"
+msgstr "dormitorios"
+
+#: home/rooms.php:10
+msgid "Dorms"
+msgstr "Dormitorios"
+
+#: home/rooms.php:11
+msgid "Mixed dorm"
+msgstr "Dormitorio compartido"
+
+#: home/rooms.php:11 home/rooms.php:55
+msgid "for"
+msgstr "para"
+
+#: home/rooms.php:11 home/rooms.php:55 room_detail.php:49 rooms/banner_1.php:4
+#: rooms/banner_1.php:6 rooms/banner_1.php:7 rooms/banner_1.php:8
+#: rooms/banner_1.php:9 rooms/banner_1.php:10 rooms/banner_2.php:3
+msgid "Ensuite bathroom"
+msgstr "Baño en suite"
+
+#: home/rooms.php:11
+msgid "Lockers"
+msgstr "Lockers"
+
+#: home/rooms.php:11
+msgid "Reading light"
+msgstr "Luz de lectura"
+
+#: home/rooms.php:11
+msgid "plugs"
+msgstr "enchufes"
+
+#: home/rooms.php:11 home/welcome.php:17 home/welcome.php:22
+#: home/welcome.php:39
+msgid "in"
+msgstr "en"
+
+#: home/rooms.php:11
+msgid "each"
+msgstr "cada"
+
+#: home/rooms.php:11
+msgid "bed"
+msgstr "cama"
+
+#: home/rooms.php:11
+msgid "Privacy curtain"
+msgstr "Cortina de privacidad"
+
+#: home/rooms.php:11
+msgid "Free Wi-Fi"
+msgstr "Wi-Fi Gratis"
+
+#: home/rooms.php:25 home/rooms.php:70
+msgid "Shower"
+msgstr "Ducha"
+
+#: home/rooms.php:40 home/rooms.php:91
+msgid "Read more"
+msgstr "Ver más"
+
+#: home/rooms.php:50 home/rooms.php:91
+msgid "double-room"
+msgstr "doble-privada"
+
+#: home/rooms.php:54 room_detail.php:34
+msgid "Double Room"
+msgstr "Doble Privada"
+
+#: home/rooms.php:55
+msgid "Private room"
+msgstr "Habitación privada"
+
+#: home/rooms.php:55 room_detail.php:44 rooms/banner_1.php:3
+msgid "Double bed"
+msgstr "Cama doble"
+
+#: home/rooms.php:55 rooms/banner_1.php:5
+msgid "Lounge area"
+msgstr "Sala de estar"
+
+#: home/rooms.php:55
+msgid "Garden view"
+msgstr "Vista al jardín"
+
+#: home/rooms.php:62
+msgid "Double Bed"
+msgstr "Cama Doble"
+
+#: home/rooms.php:78
+msgid "Garden View"
+msgstr "Vista al Jardín"
+
+#: home/rooms.php:86
+msgid "Lounge Area"
+msgstr "Sala de Estar"
+
+#: home/welcome.php:4
+msgid ""
+"A small house with a big heart.\n"
+"      Located on the main street, just two blocks from the city centre, with "
+"garden and views to the lake.\n"
+"      It`s the perfect place to discover Calafate and enjoy a nice stay with "
+"great company."
+msgstr ""
+"Una casa pequeña con un gran corazón.\n"
+"      Ubicada en la calle principal a solo dos cuadras del centro, con "
+"jardín y vistas al lago.\n"
+"      El lugar perfecto para descubrir Calafate y disfrutar de una linda "
+"estadía con buena compañía."
+
+#: home/welcome.php:11
+msgid "EXPLORE"
+msgstr "EXPLORA"
+
+#: home/welcome.php:17
+msgid "REST"
+msgstr "DESCANSA"
+
+#: home/welcome.php:17
+msgid "a cozy bedroom"
+msgstr "una habitación acogedora"
+
+#: home/welcome.php:22
+msgid "SLEEP"
+msgstr "DORMI"
+
+#: home/welcome.php:22
+msgid "a comfy dorm"
+msgstr "un dormi cómodo"
+
+#: home/welcome.php:27
+msgid "SHARE"
+msgstr "COMPARTI"
+
+#: home/welcome.php:27
+msgid "our communal kitchen"
+msgstr "nuestra cocina comunitaria"
+
+#: home/welcome.php:34
+msgid "ENJOY"
+msgstr "DISFRUTA"
+
+#: home/welcome.php:34
+msgid "great company"
+msgstr "de buena compañía"
+
+#: home/welcome.php:39
+msgid "RELAX"
+msgstr "RELAJA"
+
+#: home/welcome.php:39
+msgid "our garden"
+msgstr "nuestro jardín"
+
+#: room_detail.php:34
+msgid "Dorm"
+msgstr "Dormitorio"
+
+#: room_detail.php:46
+msgid "Up to 8 people"
+msgstr "Hasta 8 personas"
+
+#: room_detail.php:67
+msgid "Arrival date"
+msgstr "Fecha de llegada"
+
+#: room_detail.php:68
+msgid "Arrival"
+msgstr "Llegada"
+
+#: room_detail.php:74
+msgid "Departure date"
+msgstr "Fecha de partida"
+
+#: room_detail.php:75
+msgid "Departure"
+msgstr "Partida"
+
+#: room_detail.php:83
+msgid "Adults"
+msgstr "Adultos"
+
+#: room_detail.php:83
+msgid "Only for 18 years old and older"
+msgstr "Solo para mayores de 18 años"
+
+#: room_detail.php:109
+msgid "Last name"
+msgstr "Apellido"
+
+#: room_detail.php:115
+msgid "Your"
+msgstr "Su"
+
+#: room_detail.php:120
+msgid "Send a booking request"
+msgstr "Enviar solicitud de reserva"
+
+#: room_detail.php:126 sitio/header - copia.php:39 sitio/header.php:45
+msgid "contact"
+msgstr "contacto"
+
+#: room_detail.php:126
+msgid "or"
+msgstr "o"
+
+#: room_detail.php:126
+msgid "Contact us"
+msgstr "Contactanos"
+
+#: rooms/banner_1.php:2
+msgid "Private room for 2"
+msgstr "Habitación privada para 2"
+
+#: rooms/banner_2.php:2
+msgid "Mixed dorm for up to 8"
+msgstr "Dormitorio compartido para 8 personas"
+
+#: rooms/banner_2.php:4 rooms/banner_2.php:6 rooms/banner_2.php:7
+msgid "Shared room"
+msgstr "Habitación compartida"
+
+#: rooms/banner_2.php:5
+msgid "Equiped bathroom"
+msgstr "Baño equipado"
+
+#: sitio/footer.php:12
+msgid "Social"
+msgstr "Redes"
+
+#: sitio/footer.php:19
+msgid "Cambiar idioma"
+msgstr "Change language"
+
+#: sitio/header - copia.php:38 sitio/header.php:44
+msgid "home"
+msgstr "inicio"
+
+#: sitio/header - copia.php:38 sitio/header.php:44
+msgid "Home"
+msgstr "Inicio"
+
+#: sitio/header - copia.php:39 sitio/header.php:45
+msgid "Contact"
+msgstr "Contacto"
+
+#~ msgid "Children"
+#~ msgstr "Niños"
+
+#~ msgid "Double Rooms"
+#~ msgstr "Doble Privada"
+
+#~ msgid "Book now"
+#~ msgstr "Reservar ahora"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "a cozy"
+#~ msgstr "una cómoda"
+
+#, fuzzy
+#~| msgid "dorms"
+#~ msgid "dorm"
+#~ msgstr "dormitorios"
+
+#~ msgid "curtain"
+#~ msgstr "Cortina"
+
+#~ msgid "About us"
+#~ msgstr "Acerca de nosotros"
+
+#~ msgid "Change language"
+#~ msgstr "Cambiar Idioma"

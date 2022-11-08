@@ -1,0 +1,48 @@
+<IfModule mod_headers.c>
+  Header set Cache-Control "no-cache, no-store, must-revalidate"
+  Header set Pragma "no-cache"
+  Header set Expires 0
+</IfModule>
+
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteRule ^index.html$ index.php
+RewriteRule ^index.html/$ index.php
+RewriteRule ^index$ index.php
+RewriteRule ^index/$ index.php
+RewriteRule ^home.html$ index.php
+RewriteRule ^home.html/$ index.php
+RewriteRule ^inicio$ index.php?lan=es
+RewriteRule ^inicio/$ index.php?lan=es
+RewriteRule ^inicio.html$ index.php?lan=es
+RewriteRule ^inicio.html/$ index.php?lan=es
+
+RewriteRule ^contacto$ contacto.php?lan=es
+RewriteRule ^contacto.html$ contacto.php?lan=es
+RewriteRule ^contacto/$ contacto.php?lan=es
+RewriteRule ^contacto.html/$ contacto.php?lan=es
+
+RewriteRule ^contact$ contacto.php?lan=en
+RewriteRule ^contact.html$ contacto.php?lan=en
+RewriteRule ^contact/$ contacto.php?lan=en
+RewriteRule ^contact.html/$ contacto.php?lan=en
+
+RewriteRule ^double-room$ room_detail.php?lan=en&type=1
+RewriteRule ^double-room/$ room_detail.php?lan=en&type=1
+RewriteRule ^double-room.html$ room_detail.php?lan=en&type=1
+RewriteRule ^dorms$ room_detail.php?lan=en&type=2
+RewriteRule ^dorms/$ room_detail.php?lan=en&type=2
+RewriteRule ^dorms.html$ room_detail.php?lan=en&type=2
+
+RewriteRule ^doble-privada$ room_detail.php?lan=es&type=1
+RewriteRule ^doble-privada/$ room_detail.php?lan=es&type=1
+RewriteRule ^doble-privada.html$ room_detail.php?lan=es&type=1
+RewriteRule ^dormitorios$ room_detail.php?lan=es&type=2
+RewriteRule ^dormitorios/$ room_detail.php?lan=es&type=2
+RewriteRule ^dormitorios.html$ room_detail.php?lan=es&type=2
+
+#RewriteRule ^seccion-(.*)-(.*)$ seccion.php?secc=$1&secn=$2
+#RewriteRule ^seccion-(.*)-(.*)/$ seccion.php?secc=$1&secn=$2
+
+ErrorDocument 404 /404.html
